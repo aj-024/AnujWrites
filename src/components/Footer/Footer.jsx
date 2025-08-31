@@ -14,7 +14,7 @@ function Footer() {
                 <Logo width="100px" />
               </div>
               <p className="text-sm text-gray-500">
-                &copy; 2025 MegaBlog. All Rights Reserved.
+                &copy; 2025 AnujWrites. All Rights Reserved.
               </p>
             </div>
           </div>
